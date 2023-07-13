@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #edeaf2;
+}
+.title{
+    text-align: center;
+    color: rgb(94, 14, 94);
+}
+.subtitle{
+    text-align: center;
+    color: rgb(169, 43, 169);
+}
